@@ -1,0 +1,8 @@
+{
+  "name": "Elite Academic Editing & Proofreading",
+  "description": "Professional academic editing and proofreading services for theses, dissertations, and research papers with rigorous style-guide adherence.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
